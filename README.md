@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Abdalla Mohammed's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">Full Stack Developer | .NET & Angular</h3>
+<h3 align="center">💻 Full Stack Developer | .NET & Angular</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdalladot99&label=Profile%20views&color=0e75b6&style=flat" alt="abdalladot99" />
@@ -9,23 +9,13 @@
 
 ### 💻 About Me:
 
-- 🎓 I'm a **Full Stack Developer** focused on building solid backends using **.NET** and scalable frontends using **Angular**  
-- 🎓 I'm currently a student at the Faculty of Engineering – Computers & Systems Department  
-- 👨‍💻 I’m working on personal and training projects to improve my skills  
-- 🛠️ Passionate about building clean and maintainable code using modern design patterns  
-- 🚀 My goal is to become a professional software engineer ready for real-world production systems  
- 
----
-### 📬 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdalla-mohammed-03560a351"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="abdalladot99@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
-</p>
----
+- 🎓 I'm a **Full Stack Developer** with a strong focus on building robust backends using **.NET** and scalable frontends with **Angular**.  
+- 🧑‍🎓 Currently studying at the **Faculty of Engineering**, Computers & Systems Department.  
+- 👨‍💻 Actively working on **personal and training projects** to sharpen my skills and deepen my practical experience.  
+- 🛠️ Passionate about writing **clean, maintainable, and testable code** using modern design patterns and best practices.  
+- 🚀 My ultimate goal is to become a **professional software engineer** capable of delivering real-world, production-grade systems.
 
+---
 ### 🛠️ Tech Stack:
 
 #### 💻 Languages & Frameworks:
@@ -62,5 +52,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=tokyonight" alt="abdalladot99 languages"/>
 </p>
 
- 
+---
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdalla-mohammed-03560a351"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="abdalladot99@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
+</p>
+
+  
  
