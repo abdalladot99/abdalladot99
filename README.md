@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Abdalla Mohammed's GitHub! 👋</h1>
+<h1 align="center">Welcome to Abdalla Mohammed's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">Full Stack Developer | .NET & Angular</h3>
 
 <p align="center">
@@ -10,35 +10,47 @@
 ### 💻 About Me:
 
 - 🎓 I'm a **Full Stack Developer** focused on building solid backends using **.NET** and scalable frontends using **Angular**  
-- 🔨 Currently working on: **eCommerce Website using MVC**  
-- 🚀 Passionate about Clean Architecture and writing maintainable code  
-- 🌱 Currently learning: **Angular, Clean Architecture**  
-- 📫 How to reach me: **abdalladot99@gmail.com**  
-- 👨‍💻 My GitHub: [github.com/abdalladot99](https://github.com/abdalladot99)  
-- 🔗 My LinkedIn: [linkedin.com/in/abdalla-mohammed-03560a351](https://www.linkedin.com/in/abdalla-mohammed-03560a351)
-
+- 🎓 I'm currently a student at the Faculty of Engineering – Computers & Systems Department  
+- 👨‍💻 I’m working on personal and training projects to improve my skills  
+- 🛠️ Passionate about building clean and maintainable code using modern design patterns  
+- 🚀 My goal is to become a professional software engineer ready for real-world production systems  
+ 
+---
+### 📬 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdalla-mohammed-03560a351"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="abdalladot99@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
+</p>
 ---
 
 ### 🛠️ Tech Stack:
 
 #### 💻 Languages & Frameworks:
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=239120" height="25" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=512BD4" height="25" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET MVC-282C34?logo=dotnet&logoColor=5C2D91" height="25" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/Web API-282C34?logo=dotnet&logoColor=512BD4" height="25" alt="Web API"/>
+  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031" height="25" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" alt="JavaScript"/>
+</p>
+
 
 #### 🛢️ Database & Tools:
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL Server-282C34?logo=microsoft-sql-server&logoColor=CC2927" height="25" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Entity Framework-282C34?logo=dotnet&logoColor=512BD4" height="25" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/LINQ-282C34?logo=dotnet&logoColor=512BD4" height="25" alt="LINQ"/>
+  <img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" height="25" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25" alt="GitHub"/>
+</p>
 
 ---
 
@@ -50,15 +62,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=tokyonight" alt="abdalladot99 languages"/>
 </p>
 
----
-
-### 📫 Let's Connect:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdalla-mohammed-03560a351" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdalladot99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+ 
+ 
