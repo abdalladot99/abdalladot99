@@ -1,12 +1,31 @@
 <h1 align="center">Welcome to Abdalla Mohammed's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">💻 Full Stack Developer | .NET & Angular</h3>
 
+<h2 align="center">💻 Full Stack Developer | .NET & Angular</h2>
+<br>
+
+<p align="center">
+    <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
+
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdalladot99&label=Profile%20views&color=0e75b6&style=flat" alt="abdalladot99" />
 </p>
 
----
 
+### 📬 Connect with Me
+<p align="start">
+  <a href="https://www.linkedin.com/in/abdalla-mohammed-03560a351"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://wa.me/01080263456" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
+  <a href="abdalladot99@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
+ </p>
+
+---
 ### 💻 About Me:
 
 - 🎓 I'm a **Full Stack Developer** with a strong focus on building robust backends using **.NET** and scalable frontends with **Angular**.  
@@ -52,15 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=tokyonight" alt="abdalladot99 languages"/>
 </p>
 
----
-### 📬 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdalla-mohammed-03560a351"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="abdalladot99@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
-</p>
+
 
   
  
