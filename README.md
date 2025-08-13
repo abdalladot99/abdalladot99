@@ -63,14 +63,13 @@
 
 ---
 
-### 📈 GitHub Stats:
+ ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalladot99&show_icons=true&theme=tokyonight" alt="abdalladot99 stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalladot99&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="abdalladot99 stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=tokyonight" alt="abdalladot99 languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=tokyonight&cache_seconds=1800" alt="abdalladot99 languages"/>
 </p>
-
 
 
   
