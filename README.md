@@ -66,7 +66,7 @@
 ### 🚀 Projects Highlights
 <div align="center">
   <a href="https://github.com/abdalladot99/MegaStor"><img src="https://img.shields.io/badge/MegaStore-MVC-blue?style=for-the-badge&logo=github&logoColor=white" alt="MegaStore"/></a>
-  <a href="https://github.com/abdalladot99/Project_MVC_Intern"><img src="https://img.shields.io/badge/Project-MVC_Intern-purple?style=for-the-badge&logo=github&logoColor=white" alt="Intern"/></a>
+  <a href="https://github.com/abdalladot99/Project_MVC_Intern"><img src="https://img.shields.io/badge/Project-MVC-purple?style=for-the-badge&logo=github&logoColor=white" alt="Intern"/></a>
   <a href="https://github.com/abdalladot99/Exam-System"><img src="https://img.shields.io/badge/Exam-System-cyan?style=for-the-badge&logo=github&logoColor=white" alt="Exam System"/></a>
   <a href="https://github.com/abdalladot99/Teacher-Platform"><img src="https://img.shields.io/badge/Teacher-Platform-orange?style=for-the-badge&logo=github&logoColor=white" alt="Teacher Platform"/></a>
 </div>
