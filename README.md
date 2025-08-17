@@ -60,6 +60,17 @@
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25" alt="GitHub"/>
 </p>
+ 
+
+---
+
+### 🚀 Projects Highlights
+<div align="center">
+  <a href="https://github.com/abdalladot99/MegaStore"><img src="https://img.shields.io/badge/MegaStore-MVC-blue?style=for-the-badge&logo=github&logoColor=white" alt="MegaStore"/></a>
+  <a href="https://github.com/abdalladot99/Exam-System"><img src="https://img.shields.io/badge/Exam-System-cyan?style=for-the-badge&logo=github&logoColor=white" alt="Exam System"/></a>
+  <a href="https://github.com/abdalladot99/Teacher-Platform"><img src="https://img.shields.io/badge/Teacher-Platform-orange?style=for-the-badge&logo=github&logoColor=white" alt="Teacher Platform"/></a>
+</div>
+
 
 ---
 ### 📈 GitHub Stats
