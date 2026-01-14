@@ -28,7 +28,6 @@
 ### 💻 About Me:
 
 - 🎓 I'm a **Full Stack Developer** with a strong focus on building robust backends using **.NET** and scalable frontends with **Angular**.  
-- 🧑‍🎓 Currently studying at the **Faculty of Engineering**, Computers & Systems Department.  
 - 👨‍💻 Actively working on **personal and training projects** to sharpen my skills and deepen my practical experience.  
 - 🛠️ Passionate about writing **clean, maintainable, and testable code** using modern design patterns and best practices.  
 - 🚀 My ultimate goal is to become a **professional software engineer** capable of delivering real-world, production-grade systems.
