@@ -229,25 +229,7 @@
 
 </td>
 </tr>
-<tr>
-<td width="50%" colspan="2">
-
-<h3 align="center">🏢 Project MVC Intern</h3>
-<p align="center">
-  <a href="https://github.com/abdalladot99/Project_MVC_Intern" target="_blank">
-    <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source Code"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-</p>
-<p align="center"><em>MVC-based web application built during internship training with full CRUD operations & clean code structure.</em></p>
-
-</td>
-</tr>
+  
 </table>
 
 <br>
