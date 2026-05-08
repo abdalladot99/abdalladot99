@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Abdalla Mohammed's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2 align="center">💻 Full Stack Developer | .NET & Angular</h2>
- 
+    
 <!-- Animated Greeting -->
 <p align="center">
   <a href="https://git.io/typing-svg">
