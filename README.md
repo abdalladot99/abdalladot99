@@ -23,15 +23,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" height="280"/>
 
-- 🎓 I'm a **Full Stack Developer** with a strong focus on building robust backends using **.NET** and scalable frontends with **Angular**.
-
-- 👨‍💻 Actively working on **personal and training projects** to sharpen my skills and deepen my practical experience.
-
-- 🛠️ Passionate about writing **clean, maintainable, and testable code** using modern design patterns and best practices.
-
-- 🚀 My ultimate goal is to become a **professional software engineer** capable of delivering real-world, production-grade systems.
-
-- 💭 Fun Fact: **I debug in my dreams!**
+- 👨‍💻 I'm a Full Stack .NET & Angular Developer  , building and maintaining production web applications.
+- 🏗️ Experienced in ASP.NET Core, ABP Framework, RESTful APIs, Angular, SQL Server, and PostgreSQL.
+- 🧠 Applying Clean Architecture, DDD, CQRS, SOLID, and role-based permission management to real-world systems.
+- ⚡ Building integrations and features such as real-time communication, background jobs, payment workflows, and notifications.
+- 💭 Fun Fact: I debug in my dreams!
 
 <!-- Portfolio Highlight -->
 <h2 align="center">🌐 Portfolio</h2>
@@ -78,7 +74,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
  
-<!-- Tech Stack Section -->
+ <!-- Tech Stack Section -->
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Arsenal</h2>
 
 <table align="center">
@@ -97,6 +93,12 @@
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Repository_Pattern-2E7D32?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ABP_Framework-1677FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DDD-6A1B9A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS-00897B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID-3949AB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dependency_Injection-455A64?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Background_Jobs-546E7A?style=for-the-badge&logoColor=white"/>
 </p>
 
 </td>
@@ -113,6 +115,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_UI-00897B?style=for-the-badge&logoColor=white"/>
 </p>
 
 </td>
@@ -128,6 +132,8 @@
   <img src="https://img.shields.io/badge/T--SQL-003B57?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stored_Procedures-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database_Design-546E7A?style=for-the-badge&logoColor=white"/>
 </p>
 
 </td>
@@ -143,6 +149,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-3E5B99?style=for-the-badge&logoColor=white"/>
 </p>
 
 </td>
@@ -157,6 +167,30 @@
 <!-- Projects Section -->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects</h2>
 
+<p align="left">
+  <a href="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"><img src="https://img.shields.io/badge/Al--Mawahib_Al--Aliah-Educational_Platform-2153CC?style=for-the-badge" alt="Al-Mawahib Al-Aliah"/></a>
+  <br/>
+  <strong>Al-Mawahib Al-Aliah — Educational & Community Platform</strong><br/>
+  Production platform with paid courses, subscriptions, live classes, online exams, certificates, gamification, affiliate commissions, granular permissions, Moyasar payments, Agora RTC, Firebase notifications, and protected video delivery.
+  <br/><em>ASP.NET Core · Angular · SQL Server · JWT/RBAC · Moyasar · Agora · Firebase</em>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ARABAS-Medical_Platform-0A7B83?style=for-the-badge" alt="ARABAS Medical Platform"/>
+  <br/>
+  <strong>ARABAS — Medical Education Platform</strong><br/>
+  Production medical learning platform with courses, diplomas, student progress tracking, grading, administrative dashboards, notifications, and certificate generation, integrated with Angular and mobile applications.
+  <br/><em>ASP.NET Web API · Angular · SQL Server · CQRS · Clean Architecture</em>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Aldiwan-Interactive_Learning-6C4AB6?style=for-the-badge" alt="Aldiwan"/>
+  <br/>
+  <strong>Aldiwan — Interactive Learning Platform</strong><br/>
+  Subscription-based learning platform with course management, quizzes, exams, progress tracking, Bunny.net video protection, Cloudinary media storage, and Jitsi/Daily live classes.
+  <br/><em>ASP.NET MVC · SQL Server · Bunny.net · Cloudinary · Jitsi · Daily</em>
+</p>
+
 <div align="center">
 <table>
 <tr>
@@ -164,7 +198,7 @@
 
 <h3 align="center">🛒 MegaStore E-Commerce</h3>
 <p align="center">
-  <a href="http://megastor.runasp.net/" target="_blank">
+  <a href="https://github.com/abdalladot99?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-FF0000?style=for-the-badge" alt="Live Demo"/>
   </a>
 </p>
@@ -181,7 +215,7 @@
 
 <h3 align="center">📋 TaskFlow Application</h3>
 <p align="center">
-  <a href="https://taskflowapp.runasp.net/swagger/index.html" target="_blank">
+  <a href="https://github.com/abdalladot99?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🟢_SWAGGER_API-85EA2D?style=for-the-badge" alt="API Docs"/>
   </a>
 </p>
@@ -240,15 +274,15 @@
 
 <!-- Divider --> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
- 
+   
+
 <!-- GitHub Stats Section -->
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="28"> GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/abdalladot99">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdalladot99&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdalladot99&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalladot99&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&langs_count=8"/>
   </a>
 </p>
 
